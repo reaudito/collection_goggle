@@ -38,7 +38,7 @@ $boost=3,site=researchschool.org.uk
 $boost=3,site=edutopia.org
 $boost=3,site=mitpress.mit.edu
 $boost=3,site=sacred-economics.com
-$boost=3,site=learningspy.co.uk/blog/
+$boost=3,/blog/$site=learningspy.co.uk
 $boost=3,site=nautil.us
 $boost=3,site=learningscientists.org
 $boost=3,site=theeffortfuleducator.com
