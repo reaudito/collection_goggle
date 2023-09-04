@@ -19,7 +19,7 @@ $boost=3,site=cleantechnica.com
 $boost=3,site=degrowth.info
 $boost=3,site=antoniomelonio.substack.com
 $boost=3,site=electionscience.org
-$boost=3,site=verywellmind.com
+$boost=4,site=verywellmind.com
 $boost=3,site=sjgenco.medium.com
 $boost=8,site=citychangers.org
 $boost=3,site=oneearth.org
@@ -48,3 +48,6 @@ $boost=3,site=discovermagazine.com
 $boost=3,site=wikipedia.org 
 $boost=5,site=ncbi.nlm.nih.gov
 $boost=3,site=pubmed.ncbi.nlm.nih.gov
+$boost=4,site=bigthink.com
+$boost=3,/@FreedominThought/$site=youtube.com
+$boost=3,/@SecondThought/$site=youtube.com
