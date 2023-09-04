@@ -10,7 +10,7 @@ $discard
 
 
 ! Boost some results
-$boost=3,site=psyche.co
+$boost=8,site=psyche.co
 $boost=3,site=reneweconomy.com.au
 $boost=3,site=theguardian.com
 $boost=3,site=ourworldindata.org
@@ -21,15 +21,15 @@ $boost=3,site=antoniomelonio.substack.com
 $boost=3,site=electionscience.org
 $boost=3,site=verywellmind.com
 $boost=3,site=sjgenco.medium.com
-$boost=3,site=citychangers.org
+$boost=8,site=citychangers.org
 $boost=3,site=oneearth.org
 $boost=3,site=vitalik.ca
 $boost=3,site=polkadot.network
 $boost=3,site=iambrainstorming.wordpress.com
 $boost=3,site=jonmunitz.substack.com
-$boost=3,site=noemamag.com
+$boost=8,site=noemamag.com
 $boost=3,site=thoughtco.com
-$boost=3,site=ted.com 
+$boost=8,site=ted.com 
 $boost=3,site=ecowatch.com
 $boost=3,site=scientificamerican.com
 $boost=3,site=newscientist.com 
@@ -39,10 +39,12 @@ $boost=3,site=edutopia.org
 $boost=3,site=mitpress.mit.edu
 $boost=3,site=sacred-economics.com
 $boost=3,/blog/$site=learningspy.co.uk
-$boost=3,site=nautil.us
+$boost=8,site=nautil.us
 $boost=3,site=learningscientists.org
 $boost=3,site=theeffortfuleducator.com
 $boost=3,site=kqed.org
 $boost=3,site=youcubed.org
 $boost=3,site=discovermagazine.com
 $boost=3,site=wikipedia.org 
+$boost=5,site=ncbi.nlm.nih.gov
+$boost=3,site=pubmed.ncbi.nlm.nih.gov
