@@ -6,7 +6,7 @@
 
 
 ! Remove results not matching any other rule
-$discard
+! $discard
 
 ! Boost some results
 $boost=3,site=scroll.in
