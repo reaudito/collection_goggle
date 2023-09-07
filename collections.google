@@ -49,5 +49,6 @@ $boost=3,site=wikipedia.org
 $boost=5,site=ncbi.nlm.nih.gov
 $boost=3,site=pubmed.ncbi.nlm.nih.gov
 $boost=4,site=bigthink.com
+$boost=4,site=arxiv.org
 $boost=3,/@FreedominThought/$site=youtube.com
 $boost=3,/@SecondThought/$site=youtube.com

@@ -5,6 +5,9 @@
 ! avatar: #000000
 
 
+! Remove results not matching any other rule
+$discard
+
 ! Boost some results
 $boost=3,site=scroll.in
 $boost=3,site=thenewsminute.com
