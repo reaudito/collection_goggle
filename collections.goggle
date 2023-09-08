@@ -38,7 +38,7 @@ $boost=3,site=researchschool.org.uk
 $boost=3,site=edutopia.org
 $boost=3,site=mitpress.mit.edu
 $boost=3,site=sacred-economics.com
-$boost=3,/blog/$site=learningspy.co.uk
+/blog^$boost=3,site=learningspy.co.uk
 $boost=8,site=nautil.us
 $boost=3,site=learningscientists.org
 $boost=3,site=theeffortfuleducator.com
@@ -50,6 +50,6 @@ $boost=5,site=ncbi.nlm.nih.gov
 $boost=3,site=pubmed.ncbi.nlm.nih.gov
 $boost=4,site=bigthink.com
 $boost=4,site=arxiv.org
-$boost=3,/@FreedominThought/$site=youtube.com
-$boost=3,/@SecondThought/$site=youtube.com
+/@FreedominThought^$boost=3,site=youtube.com
+/@SecondThought^$boost=3,$site=youtube.com
 $boost=3,site=quantamagazine.org
