@@ -53,3 +53,5 @@ $boost=4,site=arxiv.org
 /@FreedominThought^$boost=3,site=youtube.com
 /@SecondThought^$boost=3,$site=youtube.com
 $boost=3,site=quantamagazine.org
+/@Vsauce^$boost=3,$site=youtube.com
+$boost=3,site=theconversation.com
