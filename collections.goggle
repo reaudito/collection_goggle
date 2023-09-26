@@ -55,3 +55,7 @@ $boost=4,site=arxiv.org
 $boost=3,site=quantamagazine.org
 /@Vsauce^$boost=3,$site=youtube.com
 $boost=3,site=theconversation.com
+$boost=3,site=edx.org
+$boost=3,site=coursera.org
+$boost=3,site=grist.org
+$boost=3,site=mru.org
