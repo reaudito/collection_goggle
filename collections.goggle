@@ -31,6 +31,7 @@ $boost=8,site=noemamag.com
 $boost=3,site=thoughtco.com
 $boost=8,site=ted.com 
 $boost=3,site=ecowatch.com
+$boost=3,site=doubledown.news
 $boost=3,site=scientificamerican.com
 $boost=3,site=newscientist.com 
 $boost=3,site=carbonbrief.org
@@ -58,4 +59,6 @@ $boost=3,site=theconversation.com
 $boost=3,site=edx.org
 $boost=3,site=coursera.org
 $boost=3,site=grist.org
-$boost=3,site=mru.org
+$boost=5,site=mru.org
+$boost=5,site=ibiology.org
+$boost=3,site=royalsociety.org
