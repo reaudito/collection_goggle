@@ -63,3 +63,5 @@ $boost=5,site=mru.org
 $boost=5,site=ibiology.org
 $boost=3,site=royalsociety.org
 $boost=5,site=openstax.org
+$boost=3,site=nap.nationalacademies.org
+$boost=3,site=open.umn.edu
