@@ -18,4 +18,5 @@ $boost=3,site=thewire.in
 $boost=3,site=thehindu.com
 $boost=3,site=theleaflet.in
 $boost=3,site=article-14.com
-$boost=3,site=app.beatrootnews.com ! Works only on mobile
+! Works only on mobile
+$boost=3,site=app.beatrootnews.com 
