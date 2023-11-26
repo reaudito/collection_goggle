@@ -71,7 +71,7 @@ $boost=3,site=verywellfamily.com
 $boost=8,site=pubmed_search.4everland.website
 
 ! Ipfs link for Pubmed Scihub search
-$boost=8,|ipfs://bafybeige4jrsgn7jfud2ywa5ysnw76tgot5xw6kkketnfotokp2hvwowyi|
+|ipfs://bafybeige4jrsgn7jfud2ywa5ysnw76tgot5xw6kkketnfotokp2hvwowyi|$boost=8
 
 $boost=3,site=greenpeace.org
 $boost=3,site=pewresearch.org
