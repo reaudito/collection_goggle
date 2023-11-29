@@ -47,8 +47,8 @@ $boost=3,site=kqed.org
 $boost=3,site=youcubed.org
 $boost=3,site=discovermagazine.com
 $boost=3,site=wikipedia.org 
-$boost=5,site=ncbi.nlm.nih.gov
-$boost=3,site=pubmed.ncbi.nlm.nih.gov
+$boost=2,site=ncbi.nlm.nih.gov
+$boost=2,site=pubmed.ncbi.nlm.nih.gov
 $boost=4,site=bigthink.com
 $boost=4,site=arxiv.org
 /@FreedominThought^$boost=3,site=youtube.com
@@ -80,3 +80,5 @@ $boost=3,site=open.lib.umn.edu
 $boost=3,site=ocw.mit.edu
 $boost=3,site=chem.libretexts.org
 $boost=5,site=knowablemagazine.org
+$boost=3,site=undark.org
+$boost=3,site=thejuicemedia.com
