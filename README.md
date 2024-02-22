@@ -11,8 +11,8 @@ https://search.brave.com/goggles/create
 
 ## India News
 
-https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Freaudito-org%2Fcollection_goggle%2Fmain%2FIndianNews.goggle
+https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Freaudito%2Fcollection_goggle%2Fmain%2FIndianNews.goggle
 
 ## Collections
 
-https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Freaudito-org%2Fcollection_goggle%2Fmain%2Fcollections.goggle
+https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Freaudito%2Fcollection_goggle%2Fmain%2Fcollections.goggle
