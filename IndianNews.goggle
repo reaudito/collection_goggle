@@ -9,15 +9,16 @@
 ! $discard
 
 ! Boost some results
-$boost=3,site=scroll.in
-$boost=3,site=thenewsminute.com
-$boost=3,site=newslaundry.com
-/@FayeDSouza^$boost=3,site=youtube.com
-/@dhruvrathee^$boost=3,site=youtube.com
-$boost=3,site=thewire.in
-$boost=3,site=thehindu.com
-$boost=3,site=theleaflet.in
-$boost=3,site=article-14.com
-$boost=3,site=app.beatrootnews.com 
-$boost=3,site=caravanmagazine.in
-$boost=3,site=thequint.com
+$boost=20,site=scroll.in
+$boost=20,site=thenewsminute.com
+$boost=20,site=newslaundry.com
+/@FayeDSouza^$boost=20,site=youtube.com
+/@dhruvrathee^$boost=20,site=youtube.com
+$boost=20,site=thewire.in
+$boost=20,site=thehindu.com
+$boost=20,site=theleaflet.in
+$boost=20,site=article-14.com
+$boost=20,site=app.beatrootnews.com 
+$boost=20,site=caravanmagazine.in
+$boost=20,site=thequint.com
+$boost=20,site=nationalheraldindia.com
